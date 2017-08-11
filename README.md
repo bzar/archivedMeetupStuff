@@ -40,5 +40,6 @@
     *no video: dark web so dark video*
  
  - The WebAssembly Challenge - Teemu Erkkola, Jaakko Huuso, & Richard Van Camp
+     - [Readable WASM through Clang - Teemu Erkkola](https://github.com/bzar/wasm-intro)
  
    [![Youtube](https://img.youtube.com/vi/JXKIaZRJAS0/mqdefault.jpg)](https://www.youtube.com/watch?v=JXKIaZRJAS0&feature=youtu.be#t=140m57s)
